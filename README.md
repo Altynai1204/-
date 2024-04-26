@@ -1,1 +1,2 @@
-ИИ-судья: pro et contra# -
+ИИ-судья: pro et contra
+
